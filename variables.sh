@@ -17,17 +17,14 @@ echo "Your name is $NAME"
 unset PERSON
 echo "$PERSON"
 
-: '
-TYPES OF VARIBLES
-    1. Local Variables
-        * Present within the current instance of shell
-        * Not available to child programs.
-    2. Environment Variables
-        * Available to any child process of the shell.
-    3. Shell Variables
-        * Special variable that is set by the shell.
-        * Required by the shell in order to function correctly.
-        * Some of them are Environment, others are Local.
-' 
-
+# TYPES OF VARIBLES
+#     1. Local Variables
+#         * Present within the current instance of shell
+#         * Not available to child programs.
+#     2. Environment Variables
+#         * Available to any child process of the shell.
+#     3. Shell Variables
+#         * Special variable that is set by the shell.
+#         * Required by the shell in order to function correctly.
+#         * Some of them are Environment, others are Local.
 
