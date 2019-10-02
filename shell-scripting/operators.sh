@@ -167,3 +167,85 @@ fi
 
 
 ############################# FILE TEST OPERATORS ############################
+# Assume a variable - file
+# file hold an existing file names test
+    # test is of size 100 bytes
+    # has RWX permissions
+
+file="./scratch.sh"
+
+# CHECK IF READABLE
+if [ -r $file ]
+then
+   echo "File has read access"
+else
+   echo "File does not have read access"
+fi
+
+# CHECK IF WRITABLE
+if [ -w $file ]
+then
+   echo "File has write permission"
+else
+   echo "File does not have write permission"
+fi
+
+# CHECK IF EXECUTABLE
+# TODO: This shit doesn't work
+if [ -x $file ]
+then
+   echo "File has execute permission"
+else
+   echo "File does not have execute permission"
+fi
+
+# CHECK IF - ORIDNARY FILE 
+    # AS OPPOSED TO - DIRECTORY / SPECIAL
+if [ -f $file ]
+then
+   echo "File is an ordinary file"
+else
+   echo "This is sepcial file"
+fi
+
+# CHECK IF DIRECTORY
+if [ -d $file ]
+then
+   echo "File is a directory"
+else
+   echo "This is not a directory"
+fi
+
+# CHECK IF SIZE GREATE THAN 0
+if [ -s $file ]
+then
+   echo "File size is Non Zero"
+else
+   echo "File size is zero"
+fi
+
+# CHECK IF IT EXISTS
+    # IS TRUE EVEN IF ITS A DIRECTORY
+if [ -e $file ]
+then
+   echo "File exists"
+else
+   echo "File does not exist"
+fi
+
+: '
+    -b  block special file
+    -c  character special file
+    -d  directory
+    -f  ordinary file
+    -g  has its set group ID (SGID) bit set
+    -k  has its sticky bit set
+    -p  if file in a named pipe
+    -t  if file descriptor is open and associated with a terminal
+    -u  has its set user ID (SUID) bit set
+    -r  readable
+    -w  writable
+    -x  executable
+    -s  size greater than 0
+    -e  exists (even if a directory)
+'
