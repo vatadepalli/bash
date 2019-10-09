@@ -1,0 +1,284 @@
+ 1993  mkdir OS
+ 1994  man mkdir
+ 1995  mkdir -p OS/Assignment_1
+ 1996  cd OS/Assignment_1/
+ 1997  vi Hello_world.sh
+ 1998  chmod +x Hello_world.sh 
+ 1999  ls
+ 2000  cd ..
+ 2001  ls
+ 2002  man ls
+ 2003  ls -C
+ 2004  ls -R
+ 2005  man ls
+ 2006  ls -dR
+ 2007  ls -d
+ 2008  man ls
+ 2009  ls -x
+ 2010  ls -X
+ 2011  man ls
+ 2012  ls -1
+ 2013  man ls
+ 2014  ls -a
+ 2015  ls -a1
+ 2016  man ls
+ 2017  ls -m
+ 2018  ls -m1
+ 2019  ls -1 -m
+ 2020  ls -m -1
+ 2021  cd OS/Assignment_1/
+ 2022  ls -l
+ 2023  ls -la
+ 2024  ls
+ 2025  man ls
+ 2026  vi Assignment_1.txt
+ 2027  ls -1
+ 2028  ls -1l
+ 2029  man ls
+ 2030  ls --group-directories-first
+ 2031  cd ..
+ 2032  ls --group-directories-first
+ 2033  ls --group-directories-first -1
+ 2034  ls --sort -1
+ 2035  ls --sort
+ 2036  ls --sort=name
+ 2037  ls --sort=time
+ 2038  ls --sort=time -1
+ 2039  ls -l
+ 2040  ls -lr
+ 2041  cd OS/Assignment_1/
+ 2042  ls -l
+ 2043  ls -lr
+ 2044  man mkdir
+ 2045  mkdir -p .aku/.soni
+ 2046  ls -a
+ 2047  ls -la
+ 2048  ca .aku/
+ 2049  cd .aku/
+ 2050  ls -a
+ 2051  cd .soni/
+ 2052  ls -a
+ 2053  vi .nakku
+ 2054  ls
+ 2055  ls -a
+ 2056  ls -1a
+ 2057  ls -1ar 
+ 2058  cd ..
+ 2059  ls
+ 2060  ls -l
+ 2061  touch Hello_world.sh 
+ 2062  ls -l
+ 2063  ls -t
+ 2064  ls -1t
+ 2065  ls -1tr
+ 2066  ls -1trR
+ 2067  ls -R
+ 2068  cd ..
+ 2069  ls -R
+ 2070  cd ..
+ 2071  ls
+ 2072  ls -R
+ 2073  ls -trR
+ 2074  ls -lR
+ 2075  ls -ltR
+ 2076  ls -ltrR
+ 2077  clear
+ 2078  ls -l
+ 2079  cd OS
+ 2080  ls -l
+ 2081  ls -ld
+ 2082  man ls
+ 2083  cd ..
+ 2084  touch OS
+ 2085  cd OS/
+ 2086  ls -ld
+ 2087  cd Assignment_1/
+ 2088  ls
+ 2089  mkdir a
+ 2090  mkdir b
+ 2091  mkdir c
+ 2092  ls
+ 2093  ls -l
+ 2094  cd a/
+ 2095  vi a.txt
+ 2096  cd ..
+ 2097  vi b.txt
+ 2098  cd ..
+ 2099  cd Assignment_1/
+ 2100  man cp
+ 2101  ls
+ 2102  man cp
+ 2103  cp b.txt b/
+ 2104  ls
+ 2105  cd b
+ 2106  ls
+ 2107  cd ..
+ 2108  rm b.txt 
+ 2109  ls -l
+ 2110  cp -vr c/ a/
+ 2111  ls -l
+ 2112  cd a/
+ 2113  ls -l
+ 2114  cd c
+ 2115  ls -l
+ 2116  cd ..
+ 2117  ls -l
+ 2118  man mv
+ 2119  mv -v b/ c/
+ 2120  ls -l
+ 2121  cd c/
+ 2122  ls -l
+ 2123  cd b/
+ 2124  ls -l
+ 2125  cd ..
+ 2126  ls -l
+ 2127  man mv
+ 2128  mv -v a cdac
+ 2129  ls -l
+ 2130  cd cdac/
+ 2131  ls -l
+ 2132  cd c
+ 2133  ls
+ 2134  vi file1.txt
+ 2135  vi file2.txt
+ 2136  vi file3.txt
+ 2137  vi file4.txt
+ 2138  vi file5.txt
+ 2139  man grep
+ 2140  grep s *
+ 2141  grep -n s *
+ 2142  cat file1.txt 
+ 2143  man cat
+ 2144  cat *.txt
+ 2145  clear
+ 2146  cd ..
+ 2147  cd c/
+ 2148  cat file.txt
+ 2149  man cat
+ 2150  cat
+ 2151  man nano
+ 2152  cat > file.txt
+ 2153  ls -l
+ 2154  nano file.txt 
+ 2155  ls -l
+ 2156  cat file.txt
+ 2157  cd ..
+ 2158  ls -l
+ 2159  touch f1.txt
+ 2160  touch f2.txt
+ 2161  touch f3.txt
+ 2162  touch f4.txt
+ 2163  touch f5.txt
+ 2164  ls -l
+ 2165  cd ..
+ 2166  ls -l
+ 2167  cd c
+ 2168  ls -l
+ 2169  cd b
+ 2170  ls -l
+ 2171* 
+ 2172  clear
+ 2173  man rm
+ 2174  cd ..
+ 2175  ls -l
+ 2176  rm -rf c
+ 2177  ls -l
+ 2178  cd cdac/
+ 2179  ls -l
+ 2180  cd c
+ 2181  ls -l
+ 2182  rm *.txt
+ 2183  ls -l
+ 2184  cd ..
+ 2185  ls -l
+ 2186  rm c
+ 2187  rm -d c
+ 2188  ls -l
+ 2189  cd ..
+ 2190  rm -d cdac/
+ 2191  rm -rf cdac/
+ 2192  ls -l
+ 2193  clear
+ 2194  man date
+ 2195  date
+ 2196  date -A
+ 2197  date -a
+ 2198  man date
+ 2199  date %A
+ 2200  date `%A`
+ 2201  man date
+ 2202  date %%
+ 2203  date -%A
+ 2204  man date
+ 2205  date +%A
+ 2206  date +%A +%b
+ 2207  man date
+ 2208  date `+%A` `+%b`
+ 2209  date `%A` `%b`
+ 2210  date `+%A +%b`
+ 2211  date `%A %b`
+ 2212  clear
+ 2213  date +%A; date +%B
+ 2214  man date
+ 2215  man cal
+ 2216  cal
+ 2217  cal -h
+ 2218  man cal
+ 2219* c
+ 2220  man cal
+ 2221  man ls
+ 2222  man cal
+ 2223  cal -month Jan
+ 2224  cal -month January
+ 2225  cal -month 01
+ 2226  cal -month 1
+ 2227  cal -m 1
+ 2228  cal -A 1
+ 2229  cal -A 2
+ 2230  cal -A 0
+ 2231  man cal
+ 2232  cal -h 0
+ 2233  cal -h 1
+ 2234  cal 2019
+ 2235  cal -3
+ 2236  cal -2
+ 2237  clear
+ 2238  cal > history
+ 2239  cal
+ 2240  cat > history
+ 2241  ls -l
+ 2242  rm history 
+ 2243  history > History_Day1
+ 2246  cat Editing_vi.txt 
+ 2247  man cat
+ 2248  cat -n Editing_vi.txt 
+ 2249  tac Editing_vi.txt 
+ 2250  man tac
+ 2251  tac Editing_vi.txt 
+ 2252  man tac
+ 2253  tac -r Editing_vi.txt 
+ 2254  man tac
+ 2255  tac -b Editing_vi.txt 
+ 2256  cat  Editing_vi.txt 
+ 2257  tac Editing_vi.txt 
+ 2258  man tac
+ 2259  vi Editing_vi.txt 
+ 2260  tac Editing_vi.txt 
+ 2261  man tac
+ 2262  H_Day1.txt > history
+ 2263  history > H_Day1.txt
+
+ 2266  cat History_Day1 H_Day1.txt > History_Day01.txt
+ 2267  vi History_Day01.txt 
+ 2268  cat history
+ 2269  cat
+ 2270  cat > history
+ 2271  echo `history`
+ 2272  vi History_Day01.txt 
+ 2273  ls -a
+ 2274  rm .History_Day01.txt.swp 
+ 2275  vi History_Day01.txt 
+ 2276  clear
+ 2277  history > file
+
+

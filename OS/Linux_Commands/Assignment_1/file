@@ -1,0 +1,1000 @@
+ 1278  g++ BinaryTree.cpp Node.cpp Main.cpp 
+ 1279  reset
+ 1280  g++ BinaryTree.cpp Node.cpp Main.cpp 
+ 1281  reset
+ 1282  g++ BinaryTree.cpp Node.cpp Main.cpp 
+ 1283  reset
+ 1284  g++ BinaryTree.cpp Node.cpp Main.cpp 
+ 1285  reset
+ 1286  g++ BinaryTree.cpp Node.cpp Main.cpp 
+ 1287  reset
+ 1288  g++ BinaryTree.cpp Node.cpp Main.cpp 
+ 1289  reset
+ 1290  g++ BinaryTree.cpp Node.cpp Main.cpp 
+ 1291  reset
+ 1292  g++ BinaryTree.cpp Node.cpp Main.cpp 
+ 1293  ./a.out
+ 1294  reset
+ 1295  g++ BinaryTree.cpp Node.cpp Main.cpp 
+ 1296  ./a.out
+ 1297  g++ BinaryTree.cpp Node.cpp Main.cpp 
+ 1298  ./a.out
+ 1299  reset
+ 1300  g++ BinaryTree.cpp Node.cpp Main.cpp 
+ 1301  reset
+ 1302  g++ BinaryTree.cpp Node.cpp Main.cpp 
+ 1303  reset
+ 1304  g++ BinaryTree.cpp Node.cpp Main.cpp 
+ 1305  reset
+ 1306  g++ BinaryTree.cpp Node.cpp Main.cpp 
+ 1307  reset
+ 1308  g++ BinaryTree.cpp Node.cpp Main.cpp 
+ 1309  ./a.out
+ 1310  reset
+ 1311  g++ BinaryTree.cpp Node.cpp Main.cpp 
+ 1312  ./a.out
+ 1313  g++ BinaryTree.cpp Node.cpp Main.cpp 
+ 1314  ./a.out
+ 1315  clear
+ 1316  g++ BinaryTree.cpp Node.cpp Main.cpp 
+ 1317  ./a.out
+ 1318  clear
+ 1319  g++ BinaryTree.cpp Node.cpp Main.cpp 
+ 1320  reset
+ 1321  g++ BinaryTree.cpp Node.cpp Main.cpp 
+ 1322  ./a.out
+ 1323  reset
+ 1324  g++ BinaryTree.cpp Node.cpp Main.cpp 
+ 1325  reset
+ 1326  g++ BinaryTree.cpp Node.cpp Main.cpp 
+ 1327  reset
+ 1328  g++ BinaryTree.cpp Node.cpp Main.cpp 
+ 1329  reset
+ 1330  g++ BinaryTree.cpp Node.cpp Main.cpp 
+ 1331  reset
+ 1332  g++ BinaryTree.cpp Node.cpp Main.cpp 
+ 1333  ./a.out
+ 1334  reset
+ 1335  ls
+ 1336  vi NOde.h
+ 1337  rm NOde.h
+ 1338  ls
+ 1339  vi Node.h
+ 1340  ls
+ 1341  vi Node.cpp
+ 1342  ls
+ 1343  vi BinaryTree.h
+ 1344  ls
+ 1345  g++ BinaryTree.cpp 
+ 1346  reset
+ 1347  ls
+ 1348  vi Main.cpp
+ 1349  vi BinaryTree.cpp
+ 1350  vi Stack.h
+ 1351  vi Stack.cpp
+ 1352  vi Main.cpp
+ 1353  ls
+ 1354  g++ Stack.h Stack.cpp Main.cpp
+ 1355  clear
+ 1356  g++ Stack.h
+ 1357  g++ Stack.cpp
+ 1358  g++ Main.cpp
+ 1359  ./a.out
+ 1360  g++ Main.cpp
+ 1361  ./a.out
+ 1362  g++ Main.cpp
+ 1363  ./a.out
+ 1364  git init
+ 1365  apt install git
+ 1366  g++ Main.cpp 
+ 1367  ./a.out 
+ 1368  clear
+ 1369  g++ Main.cpp 
+ 1370  ./a.out 
+ 1371  ls
+ 1372  g++ Main.cpp Student.cpp
+ 1373  clear
+ 1374  g++ Main.cpp Student.cpp
+ 1375  g++ ObjMain.cpp Student.cpp
+ 1376  clear
+ 1377  g++ ObjMain.cpp Student.cpp
+ 1378  clear
+ 1379  g++ ObjMain.cpp Student.cpp
+ 1380  clear
+ 1381  g++ ObjMain.cpp Student.cpp
+ 1382  clear
+ 1383  g++ ObjMain.cpp Student.cpp
+ 1384  ./a.out 
+ 1385  g++ ObjMain.cpp Student.cpp
+ 1386  ./a.out 
+ 1387  clear
+ 1388  g++ ObjMain.cpp Student.cpp
+ 1389  ./a.out 
+ 1390  g++ ObjMain.cpp Student.cpp
+ 1391  clear
+ 1392  ./a.out 
+ 1393  vi ALL.h
+ 1394  ls
+ 1395  vi Main.cpp
+ 1396  vi ALL.h 
+ 1397  vi Main.cpp
+ 1398  clear
+ 1399  reset
+ 1400  mkdir Stack
+ 1401  ls
+ 1402  mkdir Practice
+ 1403  cd Practice/
+ 1404  clear
+ 1405  vi Stack.h
+ 1406  vi Main.cpp
+ 1407  bash
+ 1408  g++ Main.cpp
+ 1409  g++ Node.cpp
+ 1410  g++ ArrayOfList.cpp
+ 1411  g++ Main.cpp
+ 1412  ./a.out
+ 1413  g++ ArrayOfList.cpp
+ 1414  ./a.out
+ 1415  g++ Main.cpp
+ 1416  ./a.out
+ 1417  g++ Main.cpp
+ 1418  ./a.out
+ 1419  g++ Main.cpp
+ 1420  ./a.out
+ 1421  vi ArrayOfList.cpp
+ 1422  vi Node.cpp
+ 1423  vi Main.cpp
+ 1424  ls
+ 1425  g++ Main.cpp Node.cpp LinkList.cpp 
+ 1426  ./a.out
+ 1427  clear
+ 1428  vi Main.cpp
+ 1429  g++ Main.cpp
+ 1430  clear
+ 1431  g++ Main.cpp
+ 1432  ./a.out 
+ 1433  g++ -g Main.cpp -o try
+ 1434  ./a.out 
+ 1435  gdb try
+ 1436  clear
+ 1437  g++ -g Main.cpp -o try
+ 1438  ./try 
+ 1439  clear
+ 1440  g++ -g Main.cpp -o try
+ 1441  ./try 
+ 1442  g++ ObjMain.cpp 
+ 1443  ./a.out 
+ 1444  clear
+ 1445  g++ ObjMain.cpp 
+ 1446  ./a.out 
+ 1447  clear
+ 1448  g++ ObjMain.cpp 
+ 1449  ./a.out 
+ 1450  clear
+ 1451  g++ ObjMain.cpp 
+ 1452  ./a.out 
+ 1453  clear
+ 1454  g++ ObjMain.cpp 
+ 1455  ./a.out 
+ 1456  clear
+ 1457  g++ ObjMain.cpp 
+ 1458  clear
+ 1459  g++ ObjMain.cpp 
+ 1460  ./a.out 
+ 1461  ls
+ 1462  g++ Main.cpp 
+ 1463  ./a.out 
+ 1464  clear
+ 1465  g++ Main.cpp 
+ 1466  clear
+ 1467  g++ Main.cpp 
+ 1468  ./a.out 
+ 1469  ls
+ 1470  g++ Main.cpp 
+ 1471  ./a.out 
+ 1472  g++ Main.cpp 
+ 1473  ./a.out 
+ 1474  clear
+ 1475  g++ Main.cpp 
+ 1476  clear
+ 1477  g++ Main.cpp 
+ 1478  cler
+ 1479  clear
+ 1480  g++ Main.cpp 
+ 1481  ./a.out 
+ 1482  vi LLofobj.cpp
+ 1483  vi Node.cpp 
+ 1484  ls
+ 1485  g++ Student.cpp 
+ 1486  g++ Node.cpp 
+ 1487  g++ LL
+ 1488  g++ LLofobj.cpp 
+ 1489  g++ Main.cpp 
+ 1490  vi Node.cpp
+ 1491  vi LLofobj.cpp
+ 1492  vi Student.cpp
+ 1493  vi Main.cpp
+ 1494  vi Student.cpp
+ 1495  vi Main.cpp
+ 1496  vi Main.cpp 
+ 1497  ls
+ 1498  g++ Student.cpp 
+ 1499  g++ Node.cpp 
+ 1500  g++ LLofobj.cpp 
+ 1501  g++ Main.cpp 
+ 1502  vi Main.cpp 
+ 1503  vi LLofobj.cpp 
+ 1504  g++ LLofobj.cpp 
+ 1505  vi Main.cpp 
+ 1506  g++ Main.cpp 
+ 1507  vi Main.cpp 
+ 1508  g++ Main.cpp 
+ 1509  vi Main.cpp 
+ 1510  g++ Main.cpp 
+ 1511  vi Main.cpp 
+ 1512  g++ Main.cpp 
+ 1513  vi Main.cpp 
+ 1514  g++ Main.cpp 
+ 1515  vi Node.cpp 
+ 1516  vi Main.cpp 
+ 1517  g++ Main.cpp 
+ 1518  vi Student.cpp 
+ 1519  vi LLofobj.cpp 
+ 1520  vi Main.cpp 
+ 1521  g++ Student.cpp 
+ 1522  vi Student.cpp 
+ 1523  g++ Student.cpp 
+ 1524  g++ Node.cpp 
+ 1525  g++ LLofobj.cpp 
+ 1526  g++ Main.cpp 
+ 1527  ./a.out
+ 1528  vi Node.cpp 
+ 1529  vi Student.cpp 
+ 1530  vi LLofobj.cpp
+ 1531  g++ Main.cpp
+ 1532  ./a.out
+ 1533  g++ Student.cpp 
+ 1534  g++ Main.cpp
+ 1535  ./a.out
+ 1536  vi Main.cpp
+ 1537  g++ Main.cpp 
+ 1538  ./a.out 
+ 1539  g++ Main.cpp clear
+ 1540  clear
+ 1541  ls
+ 1542  g++ -g Main.cpp -o try
+ 1543  gdb try
+ 1544  clear
+ 1545  g++ -g Main.cpp -o try
+ 1546  gdb try
+ 1547  clear
+ 1548  g++ -g Main.cpp -o try
+ 1549  clear
+ 1550  g++ -g Main.cpp -o try
+ 1551  clear
+ 1552  g++ -g Main.cpp -o try
+ 1553  clear
+ 1554  g++ -g Main.cpp -o try
+ 1555  clear
+ 1556  g++ -g Main.cpp -o try
+ 1557  clear
+ 1558  g++ -g Main.cpp -o try
+ 1559  ./a.out 
+ 1560  clear
+ 1561  vi ClassOwner.h
+ 1562  vi ClassOwner.cpp
+ 1563  vi Node.h
+ 1564  vi Node.cpp
+ 1565  vi Main.cpp
+ 1566  vi Node.h
+ 1567  vi Node.cpp
+ 1568  vi ClassOwner.h
+ 1569  vi CLassOwner.cpp
+ 1570  vi Node.h
+ 1571  vi CLassOwner.cpp
+ 1572  vi Node.cpp
+ 1573  vi ClassOwner.h
+ 1574  vi Main.cpp
+ 1575  vi CLassOwner.cpp
+ 1576  vi 
+ 1577  vi CLassOwner.cpp
+ 1578  vi ClassOwner.h
+ 1579  vi CLassOwner.cpp
+ 1580  vi ClassOwner.cpp
+ 1581  g++ Main.cpp
+ 1582  vi Node.cpp
+ 1583  ls
+ 1584  g++ -g Main.cpp -o try
+ 1585  clear
+ 1586  g++ -g Main.cpp -o try
+ 1587  clear
+ 1588  g++ -g Main.cpp -o try
+ 1589  clear
+ 1590  g++ -g Main.cpp -o try
+ 1591  clear
+ 1592  g++ -g Main.cpp -o try
+ 1593  clear
+ 1594  g++ -g Main.cpp -o try
+ 1595  clear
+ 1596  g++ -g Main.cpp -o try
+ 1597  clear
+ 1598  g++ -g Main.cpp -o try
+ 1599  clear
+ 1600  g++ -g Main.cpp -o try
+ 1601  ./try 
+ 1602  clear
+ 1603  g++ -g Main.cpp -o try
+ 1604  ./try 
+ 1605  g++ -g Main.cpp -o try
+ 1606  clear
+ 1607  g++ -g Main.cpp -o try
+ 1608  ./try 
+ 1609  g++ -g SMain.cpp -o try
+ 1610  ./try 
+ 1611  g++ -g SMain.cpp -o try
+ 1612  ./try 
+ 1613  clear
+ 1614  g++ -g SMain.cpp -o try
+ 1615  ./try 
+ 1616  g++ -g SMain.cpp -o try
+ 1617  ./try 
+ 1618  g++ -g SMain.cpp -o try
+ 1619  ./try 
+ 1620  ls
+ 1621  g++ ObjMain.cpp 
+ 1622  ./a.out 
+ 1623  g++ ObjMain.cpp 
+ 1624  ./a.out 
+ 1625  clear
+ 1626  g++ ObjMain.cpp 
+ 1627  ./a.out 
+ 1628  clear
+ 1629  g++ ObjMain.cpp 
+ 1630  ./a.out 
+ 1631  clear
+ 1632  g++ ObjMain.cpp 
+ 1633  ./a.out 
+ 1634  clear
+ 1635  ./a.out 
+ 1636  g++ ObjMain.cpp 
+ 1637  ./a.out 
+ 1638  clear
+ 1639  g++ ObjMain.cpp 
+ 1640  ./a.out 
+ 1641  clear
+ 1642  ls
+ 1643  g++ BMain.cpp 
+ 1644  clear
+ 1645  g++ BMain.cpp 
+ 1646  clear
+ 1647  g++ BMain.cpp 
+ 1648  clear
+ 1649  g++ BMain.cpp 
+ 1650  clear
+ 1651  g++ BMain.cpp 
+ 1652  clear
+ 1653  g++ BMain.cpp 
+ 1654  ./a.out 
+ 1655  clear
+ 1656  g++ BMain.cpp 
+ 1657  ./a.out 
+ 1658  clear
+ 1659  g++ BMain.cpp 
+ 1660  ./a.out 
+ 1661  clear
+ 1662  g++ BMain.cpp 
+ 1663  ./a.out 
+ 1664  clear
+ 1665  g++ BMain.cpp 
+ 1666  ./a.out 
+ 1667  clear
+ 1668  g++ -g BMain.cpp -o try
+ 1669  gdb try
+ 1670  clear
+ 1671  cleae
+ 1672  clear
+ 1673  g++ -g BMain.cpp -o try
+ 1674  clear
+ 1675  g++ -g BMain.cpp -o try
+ 1676  ./a.out 
+ 1677  g++ Main.cpp 
+ 1678  clear
+ 1679  g++ Main.cpp 
+ 1680  ./a.out 
+ 1681  clear
+ 1682  ls
+ 1683  g++ Main.cpp 
+ 1684  ./a.out
+ 1685  clear
+ 1686  ./a.out
+ 1687  clear
+ 1688  ./a.out
+ 1689  clear
+ 1690  g++ main.cpp 
+ 1691  ./a.out 
+ 1692  g++ Main.cpp 
+ 1693  g++ main.cpp 
+ 1694  g++ lic.cpp 
+ 1695  g++ Main.cpp 
+ 1696  g++ main.cpp 
+ 1697  g++ lic.cpp 
+ 1698  cd ..
+ 1699  ls
+ 1700  cd D
+ 1701  cd CPPA
+ 1702  cd CPPArc
+ 1703  ls
+ 1704  cd ..
+ 1705  cd DSArc/
+ 1706  ls
+ 1707  cd LLofObj/
+ 1708  ls
+ 1709  vi LLofobj.cpp 
+ 1710  lsls
+ 1711  lls
+ 1712  pwd
+ 1713  cd ..
+ 1714  ls
+ 1715  cd LLofObj/
+ 1716  ls
+ 1717  vi Student.cpp 
+ 1718  g++ Student.cpp 
+ 1719  vi Student.cpp 
+ 1720  g++ Student.cpp 
+ 1721  vi Student.cpp 
+ 1722  ls
+ 1723  g++ main.cpp 
+ 1724  ./a.out 
+ 1725  g++ main.cpp 
+ 1726  ./a.out 
+ 1727  g++ main.cpp 
+ 1728  ./a.out 
+ 1729  g++ main.cpp 
+ 1730  ./a.out 
+ 1731  g++ main.cpp 
+ 1732  rm Student.cpp 
+ 1733  ls
+ 1734  cd ..
+ 1735  ls
+ 1736  cd DSArc/
+ 1737  ls
+ 1738  cd LLofObj/
+ 1739  ls
+ 1740  vi Main.cpp 
+ 1741  vi Student.cpp 
+ 1742  vi Main.cpp 
+ 1743  vi lic.h
+ 1744  ls
+ 1745  vi lic.cpp
+ 1746  vi node.h
+ 1747  vi node.cpp
+ 1748  g++ node.cpp
+ 1749  clear
+ 1750  g++ node.cpp
+ 1751  vi node.cpp
+ 1752  g++ node.cpp
+ 1753  vi node.cpp
+ 1754  ls
+ 1755  vi linklist.cpp
+ 1756  vi linklist.h
+ 1757  vi linklist.cpp
+ 1758  g++ linklist.cpp
+ 1759  vi linklist.cpp
+ 1760  g++ linklist.cpp
+ 1761  vi linklist.cpp
+ 1762  g++ linklist.cpp
+ 1763  vi main.cpp
+ 1764  g++ linklist.cpp
+ 1765  g++ main.cpp
+ 1766  vi main.cpp
+ 1767  g++ main.cpp
+ 1768   main.cpp
+ 1769  g++ main.cpp
+ 1770  vi main.cpp
+ 1771  g++ main.cpp
+ 1772  vi main.cpp
+ 1773  g++ main.cpp
+ 1774  vi main.cpp
+ 1775  g++ main.cpp
+ 1776  vi main.cpp
+ 1777  g++ main.cpp
+ 1778  vi main.cpp
+ 1779  g++ main.cpp
+ 1780  vi main.cpp
+ 1781  ls
+ 1782  vi lic.h
+ 1783  rm lic.h
+ 1784  vi lic.cpp
+ 1785  g++ lic.cpp
+ 1786  ls
+ 1787  pwd
+ 1788  cd ..
+ 1789  ls
+ 1790  cd 224
+ 1791  ls
+ 1792  vi lic.cpp
+ 1793  g++ lic.cpp
+ 1794  vi lic.cpp
+ 1795  g++ lic.cpp
+ 1796  vi lic.cpp
+ 1797  g++ lic.cpp
+ 1798  g++ m.cpp
+ 1799  g++ main.cpp
+ 1800  ./a.out
+ 1801  g++ main.cpp
+ 1802  ./a.out
+ 1803  vi lic.cpp
+ 1804  g++ lic.cpp
+ 1805  vi lic.cpp
+ 1806  g++ lic.cpp
+ 1807  vi lic.cpp
+ 1808  lsls
+ 1809  ls
+ 1810  g++ main.cpp 
+ 1811  ./a.out 
+ 1812  g++ main.cpp 
+ 1813  ./a.out 
+ 1814  g++ main.cpp 
+ 1815  ./a.out 
+ 1816  g++ main.cpp 
+ 1817  ./a.out 
+ 1818  g++ main.cpp 
+ 1819  ./a.out 
+ 1820  g++ main.cpp 
+ 1821  ./a.out 
+ 1822  g++ main.cpp 
+ 1823  ./a.out 
+ 1824  las
+ 1825  ls
+ 1826  pwd
+ 1827  ls
+ 1828  cd D
+ 1829  cd Desktop/
+ 1830  ls
+ 1831  cd 190840120224
+ 1832  ls
+ 1833  vi lic.cpp 
+ 1834  cd Desktop/
+ 1835  ls
+ 1836  cd ..
+ 1837  cd ls
+ 1838  ls
+ 1839  cd home
+ 1840  ls
+ 1841  cd ..
+ 1842  ls
+ 1843  cd home/
+ 1844  ls
+ 1845  cd exam/
+ 1846  ls
+ 1847  cd D
+ 1848  cd Desk
+ 1849  cd Desktop/
+ 1850  ls
+ 1851  cd Desktop
+ 1852  ls
+ 1853  cd ..
+ 1854  cd Desktop
+ 1855  ls
+ 1856  cd 190840120003
+ 1857  cd home
+ 1858  cd ..
+ 1859  cd Desktop
+ 1860  mkdir 190840120003
+ 1861  cd ..
+ 1862  ls
+ 1863  cd dac
+ 1864  ls
+ 1865  cd Desktop/
+ 1866  ls
+ 1867  mkdir 190840120003
+ 1868  cd 190840120003
+ 1869  vi node.cpp
+ 1870  g++ node.cpp
+ 1871  vi node.cpp
+ 1872  g++ node.cpp
+ 1873  vi node.cpp
+ 1874  vi linklist.cpp
+ 1875  vi lsmain.cpp
+ 1876  vi linklist.cpp
+ 1877  vi Corporator.cpp
+ 1878  vi lsmain.cpp
+ 1879  g++ lsmain.cpp
+ 1880  vi lsmain.cpp
+ 1881  g++ lsmain.cpp
+ 1882  vi node.cpp
+ 1883  g++ lsmain.cpp
+ 1884  vi linklist.cpp
+ 1885  g++ lsmain.cpp
+ 1886  vi lsmain.cpp
+ 1887  g++ lsmain.cpp
+ 1888  vi Corporator.cpp
+ 1889  g++ lsmain.cpp
+ 1890  g++ -g main.cpp -o try
+ 1891  clear
+ 1892  g++ -g main.cpp -o try
+ 1893  clear
+ 1894  g++ -g main.cpp -o try
+ 1895  ./try 
+ 1896  clear
+ 1897  g++ -g main.cpp -o try
+ 1898  ./try
+ 1899  clear
+ 1900  g++ -g main.cpp -o try
+ 1901  ./try 
+ 1902  clear
+ 1903  g++ -g main.cpp -o try
+ 1904  ./try 
+ 1905  clear
+ 1906  ls
+ 1907  vi WholeSaleDealer.h
+ 1908  vi WholeSaleDealer.cpp
+ 1909  g++ WholeSaleDealer.cpp
+ 1910  vi WholeSaleDealer.h
+ 1911  g++ WholeSaleDealer.cpp
+ 1912  clear
+ 1913  vi Node.h
+ 1914  vi Node.cpp
+ 1915  g++ Node.cpp
+ 1916  vi DLL.h
+ 1917  vi DLL.cpp
+ 1918  vi DLL.h
+ 1919  g++ DLL.cpp
+ 1920  vi DLL.h
+ 1921  vi DLL.cpp
+ 1922  g++ DLL.cpp
+ 1923  clear
+ 1924  vi Main.cpp
+ 1925  ls
+ 1926  vi WholeSaleDealer.h
+ 1927  vi WholeSaleDealer.cpp
+ 1928  vi Main.cpp 
+ 1929  g++ Main.cpp 
+ 1930  vi DLL.h
+ 1931  vi DLL.cpp
+ 1932  vi Main.cpp 
+ 1933  clear
+ 1934  vi DLL.h
+ 1935  vi DLL.cpp
+ 1936  g++ Main.cpp 
+ 1937  clear
+ 1938  vi WholeSaleDealer.h
+ 1939  vi WholeSaleDealer.cpp
+ 1940  vi WholeSaleDealer.h
+ 1941  vi WholeSaleDealer.cpp
+ 1942  vi DLL.cpp
+ 1943  vi DLL.h
+ 1944  vi WholeSaleDealer.h
+ 1945  vi DLL.h
+ 1946  vi WholeSaleDealer.h
+ 1947  vi WholeSaleDealer.cpp
+ 1948  vi Main.cpp 
+ 1949  g++ WholeSaleDealer.cpp
+ 1950  g++ DLL.cpp
+ 1951  g++ Main.cpp 
+ 1952  vi WholeSaleDealer.h
+ 1953  vi WholeSaleDealer.cpp
+ 1954  clear
+ 1955  g++ Main.cpp 
+ 1956  vi DLL.cpp
+ 1957  g++ Main.cpp 
+ 1958  vi DLL.cpp
+ 1959  g++ Main.cpp 
+ 1960  vi Main.cpp 
+ 1961  clear
+ 1962  g++ Main.cpp 
+ 1963  ./a.out 
+ 1964  vi Main.cpp 
+ 1965  vi DLL.cpp
+ 1966  clear
+ 1967  g++ Main.cpp 
+ 1968  ./a.out 
+ 1969  clear
+ 1970  ls
+ 1971  vi Node.h
+ 1972  vi Node.cpp
+ 1973  vi DLL.h
+ 1974  vi DLL.cpp
+ 1975  vi WholeSaleDealer.h
+ 1976  vi WholeSaleDealer.cpp
+ 1977  vi Main.cpp 
+ 1978  g++ Main.cpp 
+ 1979  ./a.out 
+ 1980  clear
+ 1981  ls
+ 1982  g++ Main.cpp 
+ 1983  ./a.out 
+ 1984  ls
+ 1985  history
+ 1986  clear=c
+ 1987  c
+ 1988  alias clear=c
+ 1989  c
+ 1990  clear
+ 1991  c
+ 1992  clear
+ 1993  mkdir OS
+ 1994  man mkdir
+ 1995  mkdir -p OS/Assignment_1
+ 1996  cd OS/Assignment_1/
+ 1997  vi Hello_world.sh
+ 1998  chmod +x Hello_world.sh 
+ 1999  ls
+ 2000  cd ..
+ 2001  ls
+ 2002  man ls
+ 2003  ls -C
+ 2004  ls -R
+ 2005  man ls
+ 2006  ls -dR
+ 2007  ls -d
+ 2008  man ls
+ 2009  ls -x
+ 2010  ls -X
+ 2011  man ls
+ 2012  ls -1
+ 2013  man ls
+ 2014  ls -a
+ 2015  ls -a1
+ 2016  man ls
+ 2017  ls -m
+ 2018  ls -m1
+ 2019  ls -1 -m
+ 2020  ls -m -1
+ 2021  cd OS/Assignment_1/
+ 2022  ls -l
+ 2023  ls -la
+ 2024  ls
+ 2025  man ls
+ 2026  vi Assignment_1.txt
+ 2027  ls -1
+ 2028  ls -1l
+ 2029  man ls
+ 2030  ls --group-directories-first
+ 2031  cd ..
+ 2032  ls --group-directories-first
+ 2033  ls --group-directories-first -1
+ 2034  ls --sort -1
+ 2035  ls --sort
+ 2036  ls --sort=name
+ 2037  ls --sort=time
+ 2038  ls --sort=time -1
+ 2039  ls -l
+ 2040  ls -lr
+ 2041  cd OS/Assignment_1/
+ 2042  ls -l
+ 2043  ls -lr
+ 2044  man mkdir
+ 2045  mkdir -p .aku/.soni
+ 2046  ls -a
+ 2047  ls -la
+ 2048  ca .aku/
+ 2049  cd .aku/
+ 2050  ls -a
+ 2051  cd .soni/
+ 2052  ls -a
+ 2053  vi .nakku
+ 2054  ls
+ 2055  ls -a
+ 2056  ls -1a
+ 2057  ls -1ar 
+ 2058  cd ..
+ 2059  ls
+ 2060  ls -l
+ 2061  touch Hello_world.sh 
+ 2062  ls -l
+ 2063  ls -t
+ 2064  ls -1t
+ 2065  ls -1tr
+ 2066  ls -1trR
+ 2067  ls -R
+ 2068  cd ..
+ 2069  ls -R
+ 2070  cd ..
+ 2071  ls
+ 2072  ls -R
+ 2073  ls -trR
+ 2074  ls -lR
+ 2075  ls -ltR
+ 2076  ls -ltrR
+ 2077  clear
+ 2078  ls -l
+ 2079  cd OS
+ 2080  ls -l
+ 2081  ls -ld
+ 2082  man ls
+ 2083  cd ..
+ 2084  touch OS
+ 2085  cd OS/
+ 2086  ls -ld
+ 2087  cd Assignment_1/
+ 2088  ls
+ 2089  mkdir a
+ 2090  mkdir b
+ 2091  mkdir c
+ 2092  ls
+ 2093  ls -l
+ 2094  cd a/
+ 2095  vi a.txt
+ 2096  cd ..
+ 2097  vi b.txt
+ 2098  cd ..
+ 2099  cd Assignment_1/
+ 2100  man cp
+ 2101  ls
+ 2102  man cp
+ 2103  cp b.txt b/
+ 2104  ls
+ 2105  cd b
+ 2106  ls
+ 2107  cd ..
+ 2108  rm b.txt 
+ 2109  ls -l
+ 2110  cp -vr c/ a/
+ 2111  ls -l
+ 2112  cd a/
+ 2113  ls -l
+ 2114  cd c
+ 2115  ls -l
+ 2116  cd ..
+ 2117  ls -l
+ 2118  man mv
+ 2119  mv -v b/ c/
+ 2120  ls -l
+ 2121  cd c/
+ 2122  ls -l
+ 2123  cd b/
+ 2124  ls -l
+ 2125  cd ..
+ 2126  ls -l
+ 2127  man mv
+ 2128  mv -v a cdac
+ 2129  ls -l
+ 2130  cd cdac/
+ 2131  ls -l
+ 2132  cd c
+ 2133  ls
+ 2134  vi file1.txt
+ 2135  vi file2.txt
+ 2136  vi file3.txt
+ 2137  vi file4.txt
+ 2138  vi file5.txt
+ 2139  man grep
+ 2140  grep s *
+ 2141  grep -n s *
+ 2142  cat file1.txt 
+ 2143  man cat
+ 2144  cat *.txt
+ 2145  clear
+ 2146  cd ..
+ 2147  cd c/
+ 2148  cat file.txt
+ 2149  man cat
+ 2150  cat
+ 2151  man nano
+ 2152  cat > file.txt
+ 2153  ls -l
+ 2154  nano file.txt 
+ 2155  ls -l
+ 2156  cat file.txt
+ 2157  cd ..
+ 2158  ls -l
+ 2159  touch f1.txt
+ 2160  touch f2.txt
+ 2161  touch f3.txt
+ 2162  touch f4.txt
+ 2163  touch f5.txt
+ 2164  ls -l
+ 2165  cd ..
+ 2166  ls -l
+ 2167  cd c
+ 2168  ls -l
+ 2169  cd b
+ 2170  ls -l
+ 2171* 
+ 2172  clear
+ 2173  man rm
+ 2174  cd ..
+ 2175  ls -l
+ 2176  rm -rf c
+ 2177  ls -l
+ 2178  cd cdac/
+ 2179  ls -l
+ 2180  cd c
+ 2181  ls -l
+ 2182  rm *.txt
+ 2183  ls -l
+ 2184  cd ..
+ 2185  ls -l
+ 2186  rm c
+ 2187  rm -d c
+ 2188  ls -l
+ 2189  cd ..
+ 2190  rm -d cdac/
+ 2191  rm -rf cdac/
+ 2192  ls -l
+ 2193  clear
+ 2194  man date
+ 2195  date
+ 2196  date -A
+ 2197  date -a
+ 2198  man date
+ 2199  date %A
+ 2200  date `%A`
+ 2201  man date
+ 2202  date %%
+ 2203  date -%A
+ 2204  man date
+ 2205  date +%A
+ 2206  date +%A +%b
+ 2207  man date
+ 2208  date `+%A` `+%b`
+ 2209  date `%A` `%b`
+ 2210  date `+%A +%b`
+ 2211  date `%A %b`
+ 2212  clear
+ 2213  date +%A; date +%B
+ 2214  man date
+ 2215  man cal
+ 2216  cal
+ 2217  cal -h
+ 2218  man cal
+ 2219* c
+ 2220  man cal
+ 2221  man ls
+ 2222  man cal
+ 2223  cal -month Jan
+ 2224  cal -month January
+ 2225  cal -month 01
+ 2226  cal -month 1
+ 2227  cal -m 1
+ 2228  cal -A 1
+ 2229  cal -A 2
+ 2230  cal -A 0
+ 2231  man cal
+ 2232  cal -h 0
+ 2233  cal -h 1
+ 2234  cal 2019
+ 2235  cal -3
+ 2236  cal -2
+ 2237  clear
+ 2238  cal > history
+ 2239  cal
+ 2240  cat > history
+ 2241  ls -l
+ 2242  rm history 
+ 2243  history > History_Day1
+ 2244  vi History_Day1 
+ 2245  vi Editing_vi.txt
+ 2246  cat Editing_vi.txt 
+ 2247  man cat
+ 2248  cat -n Editing_vi.txt 
+ 2249  tac Editing_vi.txt 
+ 2250  man tac
+ 2251  tac Editing_vi.txt 
+ 2252  man tac
+ 2253  tac -r Editing_vi.txt 
+ 2254  man tac
+ 2255  tac -b Editing_vi.txt 
+ 2256  cat  Editing_vi.txt 
+ 2257  tac Editing_vi.txt 
+ 2258  man tac
+ 2259  vi Editing_vi.txt 
+ 2260  tac Editing_vi.txt 
+ 2261  man tac
+ 2262  H_Day1.txt > history
+ 2263  history > H_Day1.txt
+ 2264  vi H_Day1.txt 
+ 2265  vi History_Day1 
+ 2266  cat History_Day1 H_Day1.txt > History_Day01.txt
+ 2267  vi History_Day01.txt 
+ 2268  cat history
+ 2269  cat
+ 2270  cat > history
+ 2271  echo `history`
+ 2272  vi History_Day01.txt 
+ 2273  ls -a
+ 2274  rm .History_Day01.txt.swp 
+ 2275  vi History_Day01.txt 
+ 2276  clear
+ 2277  history > file
